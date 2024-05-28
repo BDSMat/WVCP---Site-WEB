@@ -1,0 +1,9 @@
+{
+    "pond": "on",
+    "listAdj": "on",
+    "listegraphe": "graph\/weighted\/zeroin.i.1.col",
+    "listealgo": "Hill-climbing Meilleur Am\u00e9liorant",
+    "inithc": "Glouton",
+    "to": "8500",
+    "vue": "on"
+}
